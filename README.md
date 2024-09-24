@@ -36,7 +36,7 @@ aluguel-jogos/
 
 1. Clone este repositório:
     ```bash
-    git clone https://github.com/seuusuario/aluguel-jogos.git
+    git clone https://github.com/glelisv/aluguel-jogos.git
     ```
 2. Abra o arquivo `index.html` em um navegador para iniciar o site.
 
